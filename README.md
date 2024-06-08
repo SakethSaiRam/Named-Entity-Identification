@@ -2,4 +2,4 @@
 
 - Named Entity Identification
 
-- Parts if Speech Tagging
+- Parts of Speech Tagging
